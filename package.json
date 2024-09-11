@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@fontsource/figtree": "^5.0.21",
+        "@headlessui/react": "^2.1.2",
+        "@heroicons/react": "^2.1.5",
+        "@inertiajs/react": "^1.2.0",
+        "@tailwindcss/forms": "^0.5.7",
+        "@tailwindcss/typography": "^0.5.14",
+        "@vitejs/plugin-react": "^4.3.1",
+        "autoprefixer": "^10.4.20",
+        "axios": "^1.6.4",
+        "daisyui": "^4.12.10",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.41",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "tailwindcss": "^3.4.10",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "react-tailwindcss-datepicker": "^1.7.0"
+    }
+}
